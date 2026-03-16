@@ -25,6 +25,8 @@ where:
 
 Zero free parameters per galaxy.
 
+![SPARC Results](output_sparc_nfw_results.png)
+
 ## How To Run
 
 1. Download SPARC rotation curve files (*_rotmod.dat) from:
