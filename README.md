@@ -47,8 +47,7 @@ Zero free parameters per galaxy.
 |---|---|
 | sparc_nfw_rotation_test.ipynb | Main SPARC result |
 | compounding_coupling_test.ipynb | Bullet Cluster wake mechanism |
-| a0_H0_unification.ipynb | a₀ = cH₀/(τ/T) derivation |
-| field_theory_derivation.ipynb | Z₂ field theory and (2π)²/e² |
+
 
 ## Background
 
